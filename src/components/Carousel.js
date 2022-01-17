@@ -11,7 +11,7 @@ function Carousel(){
     <div className="carousel-item active">
       <img src={london} className="d-block w-100 carousel" alt="london"/>
     </div>
-    <div className="carousel-item">
+    <div className="carousel-item"> 
       <img src={paris} className="d-block w-100 carousel" alt="paris"/>
     </div>
     <div className="carousel-item">
