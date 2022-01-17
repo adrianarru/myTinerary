@@ -1,0 +1,42 @@
+Contenido de MyTinerary
+
+NavBar
+	- Acceso a HOME, CITIIES, USER (SignUp y SignIn) Y LOGO
+
+HOME
+	- Descripcion y nombre del proyectyo
+	- carousel con imagen y nombre de cities 
+	- Pueden agregar un card con las ciudades con mas liks
+
+CITIES 
+	- Filtro por cities y countries
+	- Search input para cities o countries
+	- Cards con cities
+
+CARD CITIES
+	- Nombre
+	- Pais
+	- Descripcion
+	- Imagen
+	- Acceso a city
+
+CITY 
+	- Nombre
+	- Pais
+	- Descripcion
+	- Imagen
+	- Comentarios de usuarios
+	- Liks
+	- AMPLIAR DETALLES
+
+SIGNUP
+	- Formulario de carga de datos de usuario
+	- Link a SignIn
+SIGNIN
+	- Formulario de SingIn
+	- Acceso a SignUp 	
+FOOTER
+	- Presente en todas las paginas
+
+
+	
