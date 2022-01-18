@@ -1,6 +1,5 @@
 import React from "react";
 import logo from "../img/myLogo.png";
-import SignIn from "./SignIn.js";
 
 function NavBar(){
     return(
@@ -16,10 +15,10 @@ function NavBar(){
           <a className="nav-link active cityNavBar" aria-current="page" href="#">Home</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link cityNavBar" href="#">Cards</a>
+          <a className="nav-link cityNavBar" href="../pages/Cities.js">City cards</a>
         </li>
         <li className="nav-item btn-user">
-          <a className="nav-link cityNavBar btn-user" href="#">User</a>
+          <a className="nav-link cityNavBar btn-user" href="../pages/User.js">User</a>
         </li>
       </ul>
     </div>
